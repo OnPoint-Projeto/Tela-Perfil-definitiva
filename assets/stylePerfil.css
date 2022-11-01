@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+body{
+    font-family: 'Rubik'!important;
+}
+
+/*configs gerais*/
+.profilePic{
+    height: 200px;
+    width: 250px;
+
+    clip-path: circle();
+}
+
+/*Grid de Looks*/
+.grid-looks{
+
+}
